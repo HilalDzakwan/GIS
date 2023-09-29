@@ -1,0 +1,3488 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal1",
+        "tempat": "",
+        "jalan": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.57769320602205,
+          -6.872865359591472
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal2",
+        "jalan": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.5776550822394,
+          -6.872913532100057
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal3",
+        "jalan": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.57772999640252,
+          -6.8729338651855585
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal4",
+        "jalan": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.57778548176054,
+          -6.872956618362508
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal5",
+        "jalan": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.5777191405702,
+          -6.872987754287394
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal6",
+        "jalan": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.57784312213789,
+          -6.872978956163493
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal7",
+        "jalan": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.5779199431941,
+          -6.872932021384784
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal8",
+        "tempat": "",
+        "jalan": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.57790694270687,
+          -6.872987169748328
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal9",
+        "jalan": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.57800030983702,
+          -6.8729648757298065
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal10",
+        "jalan": "",
+        "tempat": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.5780688578551,
+          -6.87300125018136
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal11",
+        "jalan": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.57816931615884,
+          -6.873054051798746
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal12",
+        "jalan": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.57804994805667,
+          -6.873095119719409
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal13",
+        "jalan": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.57796249024017,
+          -6.873058745275046
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal14"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57779984152279,
+          -6.8728447625189375
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal15",
+        "jalan": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.57790856280536,
+          -6.872836707292862
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal16",
+        "jalan": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.5778598816334,
+          -6.87277387652432
+        ],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal17",
+        "jalan": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.57780470963928,
+          -6.872743266659242
+        ],
+        "type": "Point"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal18",
+        "jalan": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.57789720386506,
+          -6.872651437053634
+        ],
+        "type": "Point"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal19"
+      },
+      "geometry": {
+        "coordinates": [
+          107.5776894975346,
+          -6.872719100975587
+        ],
+        "type": "Point"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal20"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57794236373195,
+          -6.872774375754659
+        ],
+        "type": "Point"
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal21"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57801687228653,
+          -6.872596167654905
+        ],
+        "type": "Point"
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal22"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57794236373195,
+          -6.872555818641473
+        ],
+        "type": "Point"
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal23"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57788563562758,
+          -6.872512947811245
+        ],
+        "type": "Point"
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal24"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57782044064135,
+          -6.872581036775458
+        ],
+        "type": "Point"
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal25"
+      },
+      "geometry": {
+        "coordinates": [
+          107.5777450853987,
+          -6.872644082103008
+        ],
+        "type": "Point"
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal26"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57769056686436,
+          -6.872477233564908
+        ],
+        "type": "Point"
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal27"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57762027127984,
+          -6.872534561477394
+        ],
+        "type": "Point"
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal28"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57760395266126,
+          -6.872633015920144
+        ],
+        "type": "Point"
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal29"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57748093538783,
+          -6.872699067623415
+        ],
+        "type": "Point"
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal30"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57753114652047,
+          -6.872563225431691
+        ],
+        "type": "Point"
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal31"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57746336149108,
+          -6.872490942413933
+        ],
+        "type": "Point"
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal32"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57759014460026,
+          -6.872416166867083
+        ],
+        "type": "Point"
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal33"
+      },
+      "geometry": {
+        "coordinates": [
+          107.577621526558,
+          -6.872342637567797
+        ],
+        "type": "Point"
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal34"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57809609566067,
+          -6.872469542716331
+        ],
+        "type": "Point"
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal35"
+      },
+      "geometry": {
+        "coordinates": [
+          107.578012554,
+          -6.872452577426756
+        ],
+        "type": "Point"
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal36",
+        "tempat": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.57793850570869,
+          -6.872414876783495
+        ],
+        "type": "Point"
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal37",
+        "tempat": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.57787584946271,
+          -6.872379061168573
+        ],
+        "type": "Point"
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal38"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57802774339115,
+          -6.872379061168573
+        ],
+        "type": "Point"
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal39"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57796393717894,
+          -6.872331550334792
+        ],
+        "type": "Point"
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal40"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57789031462761,
+          -6.872305967576153
+        ],
+        "type": "Point"
+      },
+      "id": 39
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal41"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57782650841557,
+          -6.8722840394970035
+        ],
+        "type": "Point"
+      },
+      "id": 40
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal42"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57775533994783,
+          -6.872260893190159
+        ],
+        "type": "Point"
+      },
+      "id": 41
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal43"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57811731749712,
+          -6.872332768561208
+        ],
+        "type": "Point"
+      },
+      "id": 42
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal44"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57806210058311,
+          -6.872290130630702
+        ],
+        "type": "Point"
+      },
+      "id": 43
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal45"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57800933740845,
+          -6.872255626318463
+        ],
+        "type": "Point"
+      },
+      "id": 44
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal46"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57792099034475,
+          -6.87223978937125
+        ],
+        "type": "Point"
+      },
+      "id": 45
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal47"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57781791877221,
+          -6.872204460792858
+        ],
+        "type": "Point"
+      },
+      "id": 46
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal48"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57823634027795,
+          -6.872292173119575
+        ],
+        "type": "Point"
+      },
+      "id": 47
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal49"
+      },
+      "geometry": {
+        "coordinates": [
+          107.57818248138267,
+          -6.872240678026444
+        ],
+        "type": "Point"
+      },
+      "id": 48
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hilal50",
+        "jalan": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.57812599009168,
+          -6.872210678844084
+        ],
+        "type": "Point"
+      },
+      "id": 49
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan1",
+        "name": "",
+        "tempat": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57782007940347,
+            -6.872918353639321
+          ],
+          [
+            107.57793762257609,
+            -6.872875774451444
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 50
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan2",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57793841797036,
+            -6.872874997821214
+          ],
+          [
+            107.57816493644157,
+            -6.8724636495479245
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 51
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan3",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57816513522067,
+            -6.872462952979873
+          ],
+          [
+            107.57815092678692,
+            -6.872428470803698
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 52
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan4",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57815145302607,
+            -6.872428993260883
+          ],
+          [
+            107.57820407684954,
+            -6.872334428493318
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 53
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan5",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57820300735568,
+            -6.872334386983766
+          ],
+          [
+            107.57812249290606,
+            -6.872289978108185
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 54
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan6",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57793795804957,
+            -6.872873588240154
+          ],
+          [
+            107.57812874188534,
+            -6.872957771736807
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 55
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan7",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57812874188534,
+            -6.872955667149768
+          ],
+          [
+            107.57833330455435,
+            -6.873076680900667
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 56
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan8",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57833080602148,
+            -6.8730728507163406
+          ],
+          [
+            107.57841508483358,
+            -6.8729386578952045
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 57
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan9",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57841508483358,
+            -6.872937079156102
+          ],
+          [
+            107.57824970754154,
+            -6.872836039830219
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 58
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan10",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57841190454343,
+            -6.872935500398398
+          ],
+          [
+            107.57857887200305,
+            -6.873008122400236
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 59
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan11",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57833222909875,
+            -6.873076150746371
+          ],
+          [
+            107.57828295339374,
+            -6.873220037766259
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 60
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan12",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57828198720358,
+            -6.873218119273162
+          ],
+          [
+            107.57827522387231,
+            -6.873291022013888
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 61
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan13",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57827715625262,
+            -6.873291022013888
+          ],
+          [
+            107.57823754245129,
+            -6.873378313438991
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 62
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan14",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57823761019256,
+            -6.873374938504426
+          ],
+          [
+            107.57815934877823,
+            -6.873465107652322
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 63
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan15",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57816031496839,
+            -6.873462229914054
+          ],
+          [
+            107.57810524212232,
+            -6.873745207449119
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 64
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan16",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57810582961258,
+            -6.87374133218151
+          ],
+          [
+            107.57806207744744,
+            -6.8738668188182
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 65
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan17",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.5780636978979,
+            -6.8738636012129035
+          ],
+          [
+            107.57788868923751,
+            -6.874222364108931
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 66
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan18",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57788698112688,
+            -6.87421833216473
+          ],
+          [
+            107.57760988407978,
+            -6.874118586453335
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 67
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan19",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57788860157723,
+            -6.87421833216473
+          ],
+          [
+            107.57776706778589,
+            -6.874384038704122
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 68
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan20",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57857844593349,
+            -6.873006559911417
+          ],
+          [
+            107.57870561192385,
+            -6.8727396267104695
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 69
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan21",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.5787064658104,
+            -6.87273979206384
+          ],
+          [
+            107.57830589293923,
+            -6.872529672242692
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 70
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan22",
+        "tempat": "",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57870449434245,
+            -6.872738668418705
+          ],
+          [
+            107.57888979335587,
+            -6.8723734386270365
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 71
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan23",
+        "tempat": "",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57888977601095,
+            -6.872373326139126
+          ],
+          [
+            107.57864452731422,
+            -6.872269618863186
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 72
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan24",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57864816062778,
+            -6.872268717060805
+          ],
+          [
+            107.57860819417459,
+            -6.87222452873587
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 73
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan25",
+        "tempat": "",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57860910387797,
+            -6.872223627339437
+          ],
+          [
+            107.57859457062352,
+            -6.87212803625583
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 74
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan26",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57859457062352,
+            -6.87212623264962
+          ],
+          [
+            107.57855369584013,
+            -6.872052284816988
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 75
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan27",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57855278751174,
+            -6.872050481211346
+          ],
+          [
+            107.57828119728953,
+            -6.871923326982625
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 76
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan28"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57828376558388,
+            -6.871923989016594
+          ],
+          [
+            107.5781084581829,
+            -6.8717481373683
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 77
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan29",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57810754985451,
+            -6.871749039172613
+          ],
+          [
+            107.57827195731466,
+            -6.871610161415077
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 78
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan30"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57827195656603,
+            -6.871611062997928
+          ],
+          [
+            107.5781811237153,
+            -6.871474890612717
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 79
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan31"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57818021538685,
+            -6.871474890612717
+          ],
+          [
+            107.57792497507768,
+            -6.871631804484025
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 80
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan32"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57827052130494,
+            -6.8716083575794045
+          ],
+          [
+            107.57834682089958,
+            -6.87167599285641
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 81
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan33"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.5783450042428,
+            -6.871675091052865
+          ],
+          [
+            107.57847217023317,
+            -6.871525391626406
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 82
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan34"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57846944524795,
+            -6.871525391626406
+          ],
+          [
+            107.57848942847454,
+            -6.871482105037188
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 83
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan35"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.5772097331888,
+            -6.872219402993778
+          ],
+          [
+            107.57718308045105,
+            -6.872536937891368
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 84
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan36"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57718308045105,
+            -6.872533630236845
+          ],
+          [
+            107.5771331065688,
+            -6.87285778022914
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 85
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan37"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57712644338352,
+            -6.872847857273001
+          ],
+          [
+            107.57687324237742,
+            -6.873555694256538
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 86
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan38"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57687657368393,
+            -6.873552066890838
+          ],
+          [
+            107.5770931271768,
+            -6.873806755643315
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 87
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan39"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57709539973627,
+            -6.873799218852383
+          ],
+          [
+            107.57690549898132,
+            -6.874215981976974
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 88
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan40"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57690549898132,
+            -6.874215981976974
+          ],
+          [
+            107.57666895593587,
+            -6.874149829124676
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 89
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan41"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57666895593587,
+            -6.874149829124676
+          ],
+          [
+            107.57646906040384,
+            -6.874209366692895
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 90
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan42"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57849435627605,
+            -6.8714785305479325
+          ],
+          [
+            107.57822649914345,
+            -6.871249704319013
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 91
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan43"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57817251277498,
+            -6.871224297111823
+          ],
+          [
+            107.5780137157434,
+            -6.8710706319104276
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 92
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan44"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57818470595771,
+            -6.8712294695000224
+          ],
+          [
+            107.57774046311232,
+            -6.871519143453483
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 93
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan45"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57774105486317,
+            -6.871510928035988
+          ],
+          [
+            107.57706527867049,
+            -6.871125941960983
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 94
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan46"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57773995477612,
+            -6.871510140584633
+          ],
+          [
+            107.57763642360504,
+            -6.871704502368317
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 95
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan47"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57763642360504,
+            -6.871702633505549
+          ],
+          [
+            107.57734465393912,
+            -6.871824109580501
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 96
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan48",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57734465393912,
+            -6.871824109580501
+          ],
+          [
+            107.57680817423108,
+            -6.871583026262812
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 97
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan49"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57705761239288,
+            -6.8711175954829855
+          ],
+          [
+            107.57678541893847,
+            -6.871572733791453
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 98
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "jalan50",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.57712351254241,
+            -6.870912878589124
+          ],
+          [
+            107.57705474787969,
+            -6.8711063125071234
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 99
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat1",
+        "jalan": "",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.5772748244404,
+              -6.872979530922876
+            ],
+            [
+              107.57724273710386,
+              -6.873130278383698
+            ],
+            [
+              107.5774116388381,
+              -6.873130278383698
+            ],
+            [
+              107.5772748244404,
+              -6.872979530922876
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 100
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat2",
+        "jalan": "",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.5774422020088,
+              -6.87303445669788
+            ],
+            [
+              107.57745024494915,
+              -6.8731398605517455
+            ],
+            [
+              107.57758697492494,
+              -6.873163815969477
+            ],
+            [
+              107.57760145221641,
+              -6.873040844810987
+            ],
+            [
+              107.5774422020088,
+              -6.87303445669788
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 101
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat3",
+        "jalan": "",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57766606036597,
+              -6.873025145702229
+            ],
+            [
+              107.57759977912423,
+              -6.873167224509643
+            ],
+            [
+              107.57771125212258,
+              -6.873239011680994
+            ],
+            [
+              107.57779410367442,
+              -6.8730535614668185
+            ],
+            [
+              107.57766606036597,
+              -6.873025145702229
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 102
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat4",
+        "jalan": "",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57779669200687,
+              -6.873048611970262
+            ],
+            [
+              107.57772438519686,
+              -6.873232566619123
+            ],
+            [
+              107.57779217283183,
+              -6.873296875951283
+            ],
+            [
+              107.57788104995046,
+              -6.873084505564833
+            ],
+            [
+              107.57779669200687,
+              -6.873048611970262
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 103
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat4",
+        "jalan": "",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57813262491646,
+              -6.873314217720889
+            ],
+            [
+              107.57818468886762,
+              -6.873151764108044
+            ],
+            [
+              107.57800618389234,
+              -6.873117304243905
+            ],
+            [
+              107.57794172376259,
+              -6.873279757868502
+            ],
+            [
+              107.57813262491646,
+              -6.873314217720889
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 104
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat5",
+        "jalan": "",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57810519583359,
+              -6.872624722269549
+            ],
+            [
+              107.57799858869583,
+              -6.872811790268429
+            ],
+            [
+              107.5781126335412,
+              -6.872870864358788
+            ],
+            [
+              107.57819940679275,
+              -6.872666566433807
+            ],
+            [
+              107.57810519583359,
+              -6.872624722269549
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 105
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat6",
+        "jalan": "",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57825883712201,
+              -6.872548759959344
+            ],
+            [
+              107.57821579901872,
+              -6.872628443512994
+            ],
+            [
+              107.57837399312956,
+              -6.872713901222767
+            ],
+            [
+              107.57843447911296,
+              -6.872624979011377
+            ],
+            [
+              107.57825883712201,
+              -6.872548759959344
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 106
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat7",
+        "jalan": "",
+        "name": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57823789966636,
+              -6.872668862701644
+            ],
+            [
+              107.57825767393018,
+              -6.872817836253475
+            ],
+            [
+              107.57840190973639,
+              -6.872880197262134
+            ],
+            [
+              107.57845657976048,
+              -6.872787810580178
+            ],
+            [
+              107.57823789966636,
+              -6.872668862701644
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 107
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat8",
+        "jalan": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57844417403675,
+              -6.872667769250128
+            ],
+            [
+              107.57840301457156,
+              -6.872735241894219
+            ],
+            [
+              107.57862125545978,
+              -6.872844528547461
+            ],
+            [
+              107.57865954333431,
+              -6.872735241893423
+            ],
+            [
+              107.57844417403675,
+              -6.872667769250128
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 108
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "jalan": "",
+        "tempat": "tempat9"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57835466820438,
+              -6.872250613570415
+            ],
+            [
+              107.578346133845,
+              -6.872449730024201
+            ],
+            [
+              107.5785722943383,
+              -6.872568352553202
+            ],
+            [
+              107.57864056920499,
+              -6.872292978779797
+            ],
+            [
+              107.57835466820438,
+              -6.872250613570415
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat10"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57866190510032,
+              -6.871979476136104
+            ],
+            [
+              107.57864910356432,
+              -6.8721785927045005
+            ],
+            [
+              107.57887099687895,
+              -6.872246377048683
+            ],
+            [
+              107.57893073738626,
+              -6.8720176048469455
+            ],
+            [
+              107.57866190510032,
+              -6.871979476136104
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat11"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57827785897825,
+              -6.8716575002327716
+            ],
+            [
+              107.57813704206836,
+              -6.871742230754549
+            ],
+            [
+              107.57826932462103,
+              -6.871882036082681
+            ],
+            [
+              107.57839307281637,
+              -6.871784596010343
+            ],
+            [
+              107.57827785897825,
+              -6.8716575002327716
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat12"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.5784357446069,
+              -6.871644790653519
+            ],
+            [
+              107.5784357446069,
+              -6.871886272607696
+            ],
+            [
+              107.57865337074298,
+              -6.871877799558675
+            ],
+            [
+              107.57864910356432,
+              -6.871729521177642
+            ],
+            [
+              107.5784357446069,
+              -6.871644790653519
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat13"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57903314968428,
+              -6.87196253004123
+            ],
+            [
+              107.57896914200859,
+              -6.872220957912361
+            ],
+            [
+              107.57923370711592,
+              -6.8722887422505465
+            ],
+            [
+              107.5792977148019,
+              -6.87204726050075
+            ],
+            [
+              107.57903314968428,
+              -6.87196253004123
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat14"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57893927175593,
+              -6.872280269208716
+            ],
+            [
+              107.57890086714394,
+              -6.87241583785935
+            ],
+            [
+              107.57912702763724,
+              -6.87249633172749
+            ],
+            [
+              107.57917396660656,
+              -6.872381945699999
+            ],
+            [
+              107.57893927175593,
+              -6.872280269208716
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat15"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57886246169488,
+              -6.872585298570584
+            ],
+            [
+              107.57869177453023,
+              -6.872852199142997
+            ],
+            [
+              107.57886246169488,
+              -6.872936929452905
+            ],
+            [
+              107.57902888168087,
+              -6.872720867134291
+            ],
+            [
+              107.57886246169488,
+              -6.872585298570584
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat16"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57774104842821,
+              -6.871627666974504
+            ],
+            [
+              107.57761303305415,
+              -6.871809837588799
+            ],
+            [
+              107.57786052944488,
+              -6.872004717705337
+            ],
+            [
+              107.57806535404285,
+              -6.871831020214714
+            ],
+            [
+              107.57774104842821,
+              -6.871627666974504
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat17"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57746794896354,
+              -6.871038789391278
+            ],
+            [
+              107.57736553666552,
+              -6.8712167237023465
+            ],
+            [
+              107.57774958278753,
+              -6.8714327867034655
+            ],
+            [
+              107.57786052944488,
+              -6.871250615943694
+            ],
+            [
+              107.57746794896354,
+              -6.871038789391278
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat18"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.5787087073358,
+              -6.871185072174171
+            ],
+            [
+              107.57859776067858,
+              -6.871456210061524
+            ],
+            [
+              107.5787897837385,
+              -6.871549413674188
+            ],
+            [
+              107.5789177991125,
+              -6.871307931548955
+            ],
+            [
+              107.5787087073358,
+              -6.871185072174171
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat19"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.5792591734417,
+              -6.871350296842337
+            ],
+            [
+              107.57918663139645,
+              -6.87165956337499
+            ],
+            [
+              107.57942559342774,
+              -6.871693455585785
+            ],
+            [
+              107.57946399803967,
+              -6.871422317833776
+            ],
+            [
+              107.5792591734417,
+              -6.871350296842337
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 119
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat20"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57950666983237,
+              -6.871731584319534
+            ],
+            [
+              107.57942132624913,
+              -6.871901045321664
+            ],
+            [
+              107.57963468520643,
+              -6.871981539277002
+            ],
+            [
+              107.57969442571374,
+              -6.87183326092827
+            ],
+            [
+              107.57950666983237,
+              -6.871731584319534
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat21"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.5794682652205,
+              -6.872265386273057
+            ],
+            [
+              107.57937012009904,
+              -6.872591598283449
+            ],
+            [
+              107.57959201341373,
+              -6.872642436498083
+            ],
+            [
+              107.57965175392314,
+              -6.872324697564778
+            ],
+            [
+              107.5794682652205,
+              -6.872265386273057
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat22"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57915951129638,
+              -6.872809023916574
+            ],
+            [
+              107.57905709899626,
+              -6.873097106932818
+            ],
+            [
+              107.5793088625656,
+              -6.873181837198032
+            ],
+            [
+              107.57939847332557,
+              -6.872868335140552
+            ],
+            [
+              107.57915951129638,
+              -6.872809023916574
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat23"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57711215052933,
+              -6.873308472130532
+            ],
+            [
+              107.57697560079811,
+              -6.873397438869645
+            ],
+            [
+              107.57708654745534,
+              -6.873600791352715
+            ],
+            [
+              107.57733831102468,
+              -6.873503351632678
+            ],
+            [
+              107.57711215052933,
+              -6.873308472130532
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat24"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57780774989357,
+              -6.873732685071047
+            ],
+            [
+              107.5774919786383,
+              -6.873537805663958
+            ],
+            [
+              107.57740236787629,
+              -6.873804705701502
+            ],
+            [
+              107.57770960477222,
+              -6.8739656929527655
+            ],
+            [
+              107.57780774989357,
+              -6.873732685071047
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat25"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57675802382772,
+              -6.871652555098066
+            ],
+            [
+              107.57668974896097,
+              -6.871894037048378
+            ],
+            [
+              107.57682203151364,
+              -6.872050788425241
+            ],
+            [
+              107.57696711560436,
+              -6.871758468249936
+            ],
+            [
+              107.57675802382772,
+              -6.871652555098066
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat26"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57956277364912,
+              -6.872880189291223
+            ],
+            [
+              107.57953290339447,
+              -6.873202164366489
+            ],
+            [
+              107.57964811723042,
+              -6.87321911041721
+            ],
+            [
+              107.57978039978508,
+              -6.8729352639906125
+            ],
+            [
+              107.57956277364912,
+              -6.872880189291223
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat27"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.5788885593459,
+              -6.87372749165263
+            ],
+            [
+              107.57879468140516,
+              -6.8739774455615645
+            ],
+            [
+              107.57896536856981,
+              -6.874036756638645
+            ],
+            [
+              107.57908911676515,
+              -6.873791039268895
+            ],
+            [
+              107.5788885593459,
+              -6.87372749165263
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 127
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat28"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57830395580663,
+              -6.87366818053691
+            ],
+            [
+              107.57821434504461,
+              -6.873918134476085
+            ],
+            [
+              107.57846610861185,
+              -6.874049466154958
+            ],
+            [
+              107.57852158194055,
+              -6.873833404342079
+            ],
+            [
+              107.57830395580663,
+              -6.87366818053691
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat29"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57935526769182,
+              -6.873871082845568
+            ],
+            [
+              107.57928699282724,
+              -6.8740447795907755
+            ],
+            [
+              107.57943207691784,
+              -6.874095617651008
+            ],
+            [
+              107.57952168767775,
+              -6.873926157430191
+            ],
+            [
+              107.57935526769182,
+              -6.873871082845568
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 129
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat30"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57992529552456,
+              -6.87242167816747
+            ],
+            [
+              107.57993382992572,
+              -6.872688578827194
+            ],
+            [
+              107.58014292170236,
+              -6.872705524896261
+            ],
+            [
+              107.5801642575558,
+              -6.872480989439694
+            ],
+            [
+              107.57992529552456,
+              -6.87242167816747
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat31"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.58015572324041,
+              -6.871976843388893
+            ],
+            [
+              107.58007037958572,
+              -6.872150540856111
+            ],
+            [
+              107.58034347904828,
+              -6.8722352712901085
+            ],
+            [
+              107.58036908212432,
+              -6.872014972129762
+            ],
+            [
+              107.58015572324041,
+              -6.871976843388893
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat32"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57937000136047,
+              -6.871086225462264
+            ],
+            [
+              107.5793358639271,
+              -6.871310761581981
+            ],
+            [
+              107.57963456646576,
+              -6.871454803565854
+            ],
+            [
+              107.57968577261579,
+              -6.871166719555504
+            ],
+            [
+              107.57937000136047,
+              -6.871086225462264
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 132
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat33"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57829652256117,
+              -6.870374138525364
+            ],
+            [
+              107.57808743078249,
+              -6.8706029115177785
+            ],
+            [
+              107.57827091948508,
+              -6.870713061437826
+            ],
+            [
+              107.57850134715909,
+              -6.870505471182284
+            ],
+            [
+              107.57829652256117,
+              -6.870374138525364
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat34"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57894940096708,
+              -6.870433450051948
+            ],
+            [
+              107.57889392763838,
+              -6.870802028661586
+            ],
+            [
+              107.57920969889369,
+              -6.870874049736059
+            ],
+            [
+              107.57930784401503,
+              -6.870585965373792
+            ],
+            [
+              107.57894940096708,
+              -6.870433450051948
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat35"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57967121256928,
+              -6.870434498203522
+            ],
+            [
+              107.57954319719533,
+              -6.870675980772418
+            ],
+            [
+              107.57980349512195,
+              -6.8708115498805995
+            ],
+            [
+              107.57991870895995,
+              -6.870553121235389
+            ],
+            [
+              107.57967121256928,
+              -6.870434498203522
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "",
+        "tempat": "tempat36"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57969156792484,
+              -6.870054671328575
+            ],
+            [
+              107.57961086279107,
+              -6.87023272834179
+            ],
+            [
+              107.57987689082637,
+              -6.8703187892079285
+            ],
+            [
+              107.5799695522764,
+              -6.870197116944183
+            ],
+            [
+              107.57969156792484,
+              -6.870054671328575
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "",
+        "tempat": "tempat37"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57897405355993,
+              -6.869894385908765
+            ],
+            [
+              107.57885150132,
+              -6.870048702042595
+            ],
+            [
+              107.57900394435137,
+              -6.870161471493574
+            ],
+            [
+              107.57921019080533,
+              -6.8700338639552
+            ],
+            [
+              107.57897405355993,
+              -6.869894385908765
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "",
+        "tempat": "tempat38"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.5785807591061,
+              -6.869242335929044
+            ],
+            [
+              107.57852097752618,
+              -6.869527227604294
+            ],
+            [
+              107.57881988543016,
+              -6.869610320978211
+            ],
+            [
+              107.57889461240649,
+              -6.869372911301255
+            ],
+            [
+              107.5785807591061,
+              -6.869242335929044
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "",
+        "tempat": "tempat39"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57846418502345,
+              -6.869702317195674
+            ],
+            [
+              107.57848211949863,
+              -6.869981273358832
+            ],
+            [
+              107.5786973331887,
+              -6.869984240977814
+            ],
+            [
+              107.5787361912162,
+              -6.8697646372041845
+            ],
+            [
+              107.57846418502345,
+              -6.869702317195674
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "",
+        "tempat": "tempat40"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57800306626405,
+              -6.8694634291570935
+            ],
+            [
+              107.57792236112886,
+              -6.869733482603138
+            ],
+            [
+              107.5781674656103,
+              -6.8698314140352466
+            ],
+            [
+              107.57830496324675,
+              -6.86958213398708
+            ],
+            [
+              107.57800306626405,
+              -6.8694634291570935
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "",
+        "tempat": "tempat41"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.5777657835423,
+              -6.870010520577793
+            ],
+            [
+              107.57759540603723,
+              -6.870360699338775
+            ],
+            [
+              107.57782257604492,
+              -6.870517982935482
+            ],
+            [
+              107.57800192078616,
+              -6.870152966206575
+            ],
+            [
+              107.5777657835423,
+              -6.870010520577793
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "",
+        "tempat": "tempat42"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57774279968174,
+              -6.870544067640623
+            ],
+            [
+              107.57764117099424,
+              -6.870731027310754
+            ],
+            [
+              107.57782051573685,
+              -6.870799282409479
+            ],
+            [
+              107.57797594784694,
+              -6.870633096063941
+            ],
+            [
+              107.57774279968174,
+              -6.870544067640623
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "",
+        "tempat": "tempat43"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57807563359921,
+              -6.870804155086006
+            ],
+            [
+              107.57798596122791,
+              -6.8710178231573735
+            ],
+            [
+              107.57817726228541,
+              -6.8710118879337045
+            ],
+            [
+              107.57822209847177,
+              -6.87083976643811
+            ],
+            [
+              107.57807563359921,
+              -6.870804155086006
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "",
+        "tempat": "tempat44"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57732605845797,
+              -6.870230410480374
+            ],
+            [
+              107.57719210180204,
+              -6.870392090401793
+            ],
+            [
+              107.57746789491745,
+              -6.870491184520603
+            ],
+            [
+              107.57753881314659,
+              -6.870313858188382
+            ],
+            [
+              107.57732605845797,
+              -6.870230410480374
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "",
+        "tempat": "tempat45"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57708703775876,
+              -6.870499007739966
+            ],
+            [
+              107.57698985351777,
+              -6.870736311988409
+            ],
+            [
+              107.5772026082065,
+              -6.870838013772982
+            ],
+            [
+              107.57730767224979,
+              -6.870639825659367
+            ],
+            [
+              107.57708703775876,
+              -6.870499007739966
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "",
+        "tempat": "tempat46"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.5772761530377,
+              -6.869792309770418
+            ],
+            [
+              107.5772315008191,
+              -6.869985282751742
+            ],
+            [
+              107.57749941412959,
+              -6.870089592438433
+            ],
+            [
+              107.57754143974745,
+              -6.869854895611397
+            ],
+            [
+              107.5772761530377,
+              -6.869792309770418
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "",
+        "tempat": "tempat47"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57670587634732,
+              -6.8700207855846855
+            ],
+            [
+              107.57664143095934,
+              -6.870332701017972
+            ],
+            [
+              107.57681462793812,
+              -6.870428674955917
+            ],
+            [
+              107.57700796410012,
+              -6.870116759586551
+            ],
+            [
+              107.57670587634732,
+              -6.8700207855846855
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "jalan": "",
+        "tempat": "tempat48"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.57863511001216,
+              -6.870462936850032
+            ],
+            [
+              107.57838135620159,
+              -6.870726865017929
+            ],
+            [
+              107.57861094299267,
+              -6.870850831291023
+            ],
+            [
+              107.57877205646065,
+              -6.870642887918862
+            ],
+            [
+              107.57863511001216,
+              -6.870462936850032
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat49"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.58014282941463,
+              -6.870455009758089
+            ],
+            [
+              107.58005421688267,
+              -6.870806913993832
+            ],
+            [
+              107.58022338614768,
+              -6.870926881311604
+            ],
+            [
+              107.58038852745398,
+              -6.8705909727955685
+            ],
+            [
+              107.58014282941463,
+              -6.870455009758089
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 149
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tempat": "tempat50"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.5798447694603,
+              -6.871166815845243
+            ],
+            [
+              107.5797907295107,
+              -6.871397383794616
+            ],
+            [
+              107.58007267806448,
+              -6.871402751412603
+            ],
+            [
+              107.58006865014124,
+              -6.871242795122129
+            ],
+            [
+              107.5798447694603,
+              -6.871166815845243
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 150
+    }
+  ]
+}
