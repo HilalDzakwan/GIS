@@ -1,3 +1,11 @@
+import { get } from "https://jscroot.github.io/api/croot.js";
+import {responseData} from "./controller/controller.js"
+import {URLGeoJson} from "./template/template.js"
+import {map} from './config/petaconfig.js';
+import {onClosePopupClick,onDeleteMarkerClick,onSubmitMarkerClick,onMapClick,onMapPointerMove,disposePopover} from './controller/popup.js';
+import {onClick} from 'https://jscroot.github.io/element/croot.js';
+import {getAllCoordinates} from './controller/cog.js';
+
 document.addEventListener("DOMContentLoaded", () => {
     const pointTable = document.getElementById("gisTable").getElementsByTagName('tbody')[0];
 
@@ -23,7 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
 document.addEventListener("DOMContentLoaded", () => {
     const pointTable = document.getElementById("gisTable2").getElementsByTagName('tbody')[0];
 
-    fetch("polygon.json") // Ganti "data.json" dengan nama file JSON Anda
+    fetch("polygone.json") // Ganti "data.json" dengan nama file JSON Anda
         .then(response => response.json())
         .then(data => {
             data.features.forEach(feature => {
@@ -63,3 +71,13 @@ document.addEventListener("DOMContentLoaded", () => {
         })
         .catch(error => console.error("Terjadi kesalahan:", error));
 });
+
+onClick('popup-closer',onClosePopupClick);
+onClick('insertmarkerbutton',onSubmitMarkerClick);
+onClick('hapusbutton',onDeleteMarkerClick);
+onClick('hitungcogbutton',getAllCoordinates);
+
+map.on('click', onMapClick);
+map.on('pointermove', onMapPointerMove);
+map.on('movestart', disposePopover);
+get(URLGeoJson,responseData);
