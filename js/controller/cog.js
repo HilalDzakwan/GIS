@@ -8,8 +8,8 @@ export function getAllCoordinates(){
     let sudahhapus=0;
     let pointlist = [];
     let totaldemand=0;
-    let Xcog=11975502.203557504;
-    let Ycog=-767024.2337733497;
+    let Xcog=0;
+    let Ycog=0;
     map.getLayers().forEach(layer => {
       if (i !== 0 && sudahhapus === 0) {
         layer.getSource().getFeatures().forEach( feature =>
