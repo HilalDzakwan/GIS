@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
 document.addEventListener("DOMContentLoaded", () => {
     const pointTable = document.getElementById("gisTable2").getElementsByTagName('tbody')[0];
 
-    fetch("polygone.json") // Ganti "data.json" dengan nama file JSON Anda
+    fetch("polygon.json") // Ganti "data.json" dengan nama file JSON Anda
         .then(response => response.json())
         .then(data => {
             data.features.forEach(feature => {
